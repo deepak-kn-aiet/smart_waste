@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+dist/
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Build outputs
+frontend/dist/
+backend/uploads/*
+!backend/uploads/.gitkeep
